@@ -1,5 +1,5 @@
 arr = [10,20,30,40]    
-# 1. Insert Operations
+# 1. Insert Operation
 
 # Insert at End
 arr.append(50)       #O(1) - Time complexity -> Because we are inserting at the end of the array
@@ -15,7 +15,7 @@ print(arr)
 
 
 
-# 2. Delete Operations
+# 2. Delete Operation
 
 # 1. Delete by value
 arr.remove(30)           # O(n) - Time complexity -> Because we have to search for the element first
